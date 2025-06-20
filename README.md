@@ -5,7 +5,6 @@ This token mimics the behavior and appearance of the original Tether USD (USDT),
 
 ## 🔐 Key Features
 
-- **Anti-DEX Protection:** Cannot be traded or added to liquidity pools.
 - **Private Ecosystem Use:** Primarily used for internal transfers and testing scenarios.
 - **Visual Clone:** Symbol and decimals match original USDT (6 decimals).
 
