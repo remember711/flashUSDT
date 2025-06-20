@@ -4,7 +4,6 @@
 
 ## 🔐 Key Features
 
-- **Private Ecosystem Use:** Primarily used for internal transfers and testing scenarios.
 - **Visual Clone:** Symbol and decimals match original USDT (6 decimals).
 
 ## 🧪 Purpose
