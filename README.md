@@ -23,7 +23,7 @@ This is NOT the original USDT issued by Tether Ltd.
 - **Contract Address:** `0x4bd5504ada380f1a432bcb883156acbc99b77ae2`
 - **Decimals:** 6
 - **Symbol:** USDT
-- **Owner:** Deployer address only
+- **Owner:** 0xeBc539E7422d999DBb282797eddEcA5fFCBc72ee
 
 ## 🔗 Resources
 
