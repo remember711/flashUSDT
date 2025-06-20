@@ -30,4 +30,5 @@ This is NOT the original USDT issued by Tether Ltd.
 
 - [Token on BscScan](https://bscscan.com/token/0x4bd5504ada380f1a432bcb883156acbc99b77ae2)
 - [GitHub Repository](https://github.com/remember711/flashusdt)
+- [Telegram](https://t.me/FlaaashUSDT)
 - [Gmail.com](flashusdt.project@gmail.com)
