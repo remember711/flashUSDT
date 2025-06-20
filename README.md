@@ -15,7 +15,7 @@ This token is meant for demonstration purposes. It is **not listed**, **not back
 ## ⚠️ Disclaimer
 
 This is NOT the original USDT issued by Tether Ltd.  
-This token is NOT meant for real financial transactions or public use.
+
 
 ## 📊 Contract Information
 
