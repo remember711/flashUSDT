@@ -4,11 +4,26 @@
 
 ## 🔐 Key Features
 
-- **Visual Clone:** Symbol and decimals match original USDT (6 decimals).
+**🎭 Visual USDT clone**:
+The token symbol and format are the same as the original USDT.
+
+**⚡ Instant and cheap transactions**:
+Powered by BNB Chain, which provides low fees and high speed.
+
+**👁️ Automatic Display**:
+Displayed in wallets (Trust Wallet, MetaMask, etc.) without the need to manually add a contract.
+
+**🧠 Centralized management**:
+All token functions are managed by the contract owner. This allows for flexible control over allocation and movement.
 
 ## 🧪 Purpose
+FlashTether is designed to:
 
-This token is meant for demonstration purposes. It is **not listed**, **not backed by fiat**, and **not tradable on exchanges**.
+Simulate liquidity through tests and demonstrations;
+
+perform calculations within a trusted ecosystem;
+
+use within DeFi experiments and custom solutions.
 
 ## ⚠️ Disclaimer
 
