@@ -1,4 +1,4 @@
-# FlashUSDT (Custom USDT Token on BNB Chain)
+# Flash Tether USDT (Custom USDT Token on BNB Chain)
 
 **FlashUSDT** is a custom demo version of the USDT token, created for testing, educational, and private usage purposes.  
 This token mimics the behavior and appearance of the original Tether USD (USDT), but with key differences:
